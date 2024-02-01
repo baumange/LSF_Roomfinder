@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Roomfinder</string>
+    <string name="not_selected">nicht ausgewählt</string>
+    <string name="building">Gebäude</string>
+    <string name="room_type">Raum Typ</string>
+    <string name="search">Suche</string>
+</resources>

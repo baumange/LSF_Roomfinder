@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roomfinder</string>
+    <string name="not_selected">not selected</string>
+    <string name="building">Building</string>
+    <string name="room_type">Room type</string>
+    <string name="search">Search</string>
+</resources>
